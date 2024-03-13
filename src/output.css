@@ -931,4 +931,9 @@ video {
   .md\:rounded-xl {
     border-radius: 0.75rem;
   }
+
+  .md\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
 }
