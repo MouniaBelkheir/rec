@@ -7,13 +7,13 @@
 
   font-display: swap;
 
-  src: url(../assets/fonts/young\ serif/);
+  src: url(../public/assets/fonts/YoungSerif-Regular.ttf);
 }
 
 @font-face {
   font-family: "outfit";
 
-  src: url(../assets/fonts/Outfit-VariableFont_wght.ttf);
+  src: url(../public/assets/fonts/Outfit-VariableFont_wght.ttf);
 }
 
 /*
