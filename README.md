@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm){:target="_blank" rel="noopener"}. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -27,8 +27,8 @@ The challenge is to build out the recipe page and get it looking as close to the
 
 ### Links
 
-- Solution URL: [Github](https://github.com/MouniaBelkheir/recipe-page){:target="_blank" rel="noopener"}
-- Live Site URL: [Recipe page website](https://recipe-page-sigma-smoky.vercel.app/){:target="_blank" rel="noopener"}
+- Solution URL: [Github](https://github.com/MouniaBelkheir/recipe-page)
+- Live Site URL: [Recipe page website](https://recipe-page-sigma-smoky.vercel.app/)
 
 ## My process
 
@@ -42,6 +42,6 @@ The challenge is to build out the recipe page and get it looking as close to the
 
 ## Author
 
-- Website - [Mounia Belkheir](https://mouniabelkheir.vercel.app/){:target="_blank" rel="noopener"}
-- Frontend Mentor - [Mounia Belkheir](https://www.frontendmentor.io/profile/MouniaBelkheir){:target="_blank" rel="noopener"}
-- LinkedIn - [Mounia Belkheir](https://www.linkedin.com/in/mouniabelkheir/){:target="_blank" rel="noopener"}
+- Website - [Mounia Belkheir](https://mouniabelkheir.vercel.app/)
+- Frontend Mentor - [Mounia Belkheir](https://www.frontendmentor.io/profile/MouniaBelkheir)
+- LinkedIn - [Mounia Belkheir](https://www.linkedin.com/in/mouniabelkheir/)
