@@ -22,15 +22,15 @@ The challenge is to build out the recipe page and get it looking as close to the
 
 - Desktop version
 
-  ![desktop](/public/assets/images/desktop.png)
+  ![desktop](/public/images/desktop.png)
 - Mobile version
-![mobile](/public/assets/images/mobile.png)
+![mobile](/public/images/mobile.png)
   
 
 ### Links
 
 - Solution URL: [Github](https://github.com/MouniaBelkheir/recipe-page)
-- Live Site URL: [Recipe page website](https://recipe-page-sigma-smoky.vercel.app/)
+- Live Site URL: [Recipe page website](https://recipe-page-iesrs3rij-mounia-belkheirs-projects.vercel.app/)
 
 ## My process
 
